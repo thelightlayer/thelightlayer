@@ -40,8 +40,8 @@ or writing code that feels like clear thinking.
 ---
 
 ### 📬 Contact / Collaboration
-- 📧 [Your Email]
-- 🌐 [Personal Website or Blog]
+- 📧 
+- 🌐 
 - 🧠 Open to collaboration in LLM / NLP / Applied AI projects
 
 ---
