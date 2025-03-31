@@ -1,4 +1,6 @@
-# ✨ TheLightLayer
+
+![圖片 1](https://github.com/user-attachments/assets/72ba2af1-fb6c-423a-9392-1da4f8a137b3)
+
 
 > This is not just a profile.  
 > It's a space where light meets layers of language, logic, and learning.
