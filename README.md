@@ -36,8 +36,6 @@ or writing code that feels like clear thinking.
 
 ### 🚧 Featured Projects (coming soon)
 
-| Project | Description |
-|--------|-------------|
 
 ---
 
